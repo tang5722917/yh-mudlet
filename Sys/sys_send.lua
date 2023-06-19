@@ -2,19 +2,19 @@
 Author: Donald duck tang5722917@163.com
 Date: 2023-06-15 20:00:11
 LastEditors: Donald duck tang5722917@163.com
-LastEditTime: 2023-06-15 20:00:41
+LastEditTime: 2023-06-19 17:13:00
 FilePath: \yh-mudlet\Sys\sys_send.lua
 Description: 
 Copyright (c) 2023 by Donald duck email: tang5722917@163.com, All Rights Reserved.
 --]]
 --[[
-Author: Tangzp tang5722917@163.com
-Date: 2023-01-18 06:19:48
-LastEditors: Tangzp tang5722917@163.com
-LastEditTime: 2023-02-09 03:42:25
-FilePath: \mudlet_-auto-robot\Sys\sys_send.lua
-Description:
-Copyright (c) 2023 by ${git_name} email: ${git_email}, All Rights Reserved.
+Author: Donald duck tang5722917@163.com
+Date: 2023-06-15 20:00:11
+LastEditors: Donald duck tang5722917@163.com
+LastEditTime: 2023-06-15 20:00:41
+FilePath: \yh-mudlet\Sys\sys_send.lua
+Description: 
+Copyright (c) 2023 by Donald duck email: tang5722917@163.com, All Rights Reserved.
 --]]
 sys_cmd = sys_cmd or {}
 sys_cmd.cmd_queue_normal = sys_cmd.cmd_queue_normal or {}
